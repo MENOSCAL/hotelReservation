@@ -1,16 +1,16 @@
 # Hotel Reservation Application
 
-Created a fully functional hotel reservation app that allows customers to check room availability and book a room.
+* Created a fully functional hotel reservation app that allows customers to check room availability and book a room.
 
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Creator](#creators)
+* [Creators](#creators)
 
 ## Instructions
 
-* clone the project
-* open the java file in an ide
+* Clone project
+* Open the java file in an ide
 
 ## Creators
 
